@@ -1,0 +1,43 @@
+/* Background Entire Site */
+body{
+    background-color: rgb(216, 214, 214);
+    color: black;
+    font-family: 'Della Respira', serif;
+
+}
+.footer{
+    background-color: rgb(194, 188, 188);
+}
+input, #inputPassword, #inputEmail{
+    color: black;
+    border-color: rgb(104, 103, 103);
+    border-radius: 5px;
+}
+video{
+    width: 600px;
+    height: 250px;
+    max-width: 700px;
+    max-height: 2910px;
+    padding: 1px;
+    margin: 0px;
+
+}
+#videoCarosel{
+    padding: 0px;
+}
+
+.card{
+    border-color: black;
+    border-radius: 15px;
+    counter-increment: gallery-cell;
+    background-color: #fff;
+    border: 1px solid #eceff1;
+    border-radius: 8px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0 1px 2px 0, rgba(60, 64, 67, 0.15) 0 1px 3px 1px;
+    padding: 15px;
+    margin: 15px;
+}
+
+#recentPost {
+    text-align: center;
+}
