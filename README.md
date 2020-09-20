@@ -25,6 +25,7 @@ Scroll through dates
 * Delete post
 * Messaging between users
 * Forgot password capability
+* Recovering Account
 
 ## Contributors
 * Ricardo Mansoalvas https://github.com/rmanosalvas
